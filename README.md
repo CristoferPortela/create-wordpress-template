@@ -13,6 +13,24 @@ with this template
 
 root(here)
 |
+| - wp-content/themes/your-theme
+|     |
+|      - assets/
+|      - .gitignore
+|      - 404.php
+|      - article.php
+|      - author.php
+|      - category.php
+|      - footer.php
+|      - functions.php
+|      - header.php
+|      - index.php
+|      - package.json
+|      - page.php
+|      - search.php
+|      - searchform.php
+|      - single.php
+|      - style.css
+|      - webpack.config.js
 |
-|
- - docker-compose.yaml
+| - docker-compose.yaml
