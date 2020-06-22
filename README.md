@@ -1,6 +1,6 @@
-# Wordpress template v1.1.0
+# Wordpress template ~ bulma v1.1.0
 
-This is just a template for making wordpress templates :D
+This is just a template for making wordpress templates with bulma :D
 
 ## Docker compose
 
