@@ -1,4 +1,4 @@
-# Wordpress template
+# Wordpress template v1.0.1
 
 This is just a template for making wordpress templates :D
 
