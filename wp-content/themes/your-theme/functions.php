@@ -1,4 +1,9 @@
 <?php
+/**
+ *  functions.php: 
+ *    - required
+ *    Theme's functions and configurations MUST be here
+ */
 function load_assets() {
   $dev = true;
 
