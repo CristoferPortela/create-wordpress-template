@@ -26,8 +26,9 @@ services:
      working_dir: /var/www/html
      volumes:
        - ./wp-content:/var/www/html/wp-content
+       - ./wp-content/uploads:/var/www/html/wp-content/uploads
        # type here the user and password for your wp account if you want
-       #    user
-       #    password
+       #    user: 
+       #    password: 
 volumes:
     db_data:
