@@ -1,6 +1,6 @@
-# Wordpress template v1.1.0
+# Wordpress template ~ bootstrap v1.1.0
 
-This is just a template for making wordpress templates :D
+This is just a template for making wordpress templates with bootstrap :D
 
 ## Docker compose
 
